@@ -1,0 +1,38 @@
+#caja1, #caja2, #caja3{
+    background-color: aqua;
+    color: black;
+    border: blue solid 5px;
+}
+
+#caja1{
+    height: 300px;
+    width: 200px;
+    float: right;
+}
+
+#caja2{
+    height: 300px;
+    width: 200px;
+    float: right;
+}
+#caja3{
+    height: 300px;
+    width: 500px;
+}
+#title{
+    size: 40;
+    font-family: 'Lucida Sans';
+    background-color: greenyellow;
+}
+
+#imagen{
+    float: left;
+    margin: 5px;
+    }
+
+#txtImg{
+    font-size: 52;
+    font-family: "Consolas";
+    color: black;
+    background-color: yellow;
+}
